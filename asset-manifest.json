@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mriiad.github.io/csb-uvynlu/static/css/main.1e7a35a9.chunk.css",
+    "main.js": "https://mriiad.github.io/csb-uvynlu/static/js/main.aa646851.chunk.js",
+    "main.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/main.aa646851.chunk.js.map",
+    "runtime-main.js": "https://mriiad.github.io/csb-uvynlu/static/js/runtime-main.62968818.js",
+    "runtime-main.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/runtime-main.62968818.js.map",
+    "static/js/2.44cd2ca3.chunk.js": "https://mriiad.github.io/csb-uvynlu/static/js/2.44cd2ca3.chunk.js",
+    "static/js/2.44cd2ca3.chunk.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/2.44cd2ca3.chunk.js.map",
+    "index.html": "https://mriiad.github.io/csb-uvynlu/index.html",
+    "static/css/main.1e7a35a9.chunk.css.map": "https://mriiad.github.io/csb-uvynlu/static/css/main.1e7a35a9.chunk.css.map",
+    "static/js/2.44cd2ca3.chunk.js.LICENSE.txt": "https://mriiad.github.io/csb-uvynlu/static/js/2.44cd2ca3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62968818.js",
+    "static/js/2.44cd2ca3.chunk.js",
+    "static/css/main.1e7a35a9.chunk.css",
+    "static/js/main.aa646851.chunk.js"
+  ]
+}
