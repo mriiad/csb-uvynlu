@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mriiad.github.io/csb-uvynlu/static/css/main.d3dca1f1.chunk.css",
-    "main.js": "https://mriiad.github.io/csb-uvynlu/static/js/main.c50d6170.chunk.js",
-    "main.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/main.c50d6170.chunk.js.map",
+    "main.js": "https://mriiad.github.io/csb-uvynlu/static/js/main.8c1c287d.chunk.js",
+    "main.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/main.8c1c287d.chunk.js.map",
     "runtime-main.js": "https://mriiad.github.io/csb-uvynlu/static/js/runtime-main.62968818.js",
     "runtime-main.js.map": "https://mriiad.github.io/csb-uvynlu/static/js/runtime-main.62968818.js.map",
     "static/js/2.44cd2ca3.chunk.js": "https://mriiad.github.io/csb-uvynlu/static/js/2.44cd2ca3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.62968818.js",
     "static/js/2.44cd2ca3.chunk.js",
     "static/css/main.d3dca1f1.chunk.css",
-    "static/js/main.c50d6170.chunk.js"
+    "static/js/main.8c1c287d.chunk.js"
   ]
 }
